@@ -1,0 +1,5 @@
+# make git ignore the following files
+.DS_Store
+.idea
+.vscode
+.env
