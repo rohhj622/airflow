@@ -40,3 +40,4 @@
 {"timestamp":"2025-05-17T03:50:01.267527","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-17T03:50:32.345001","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-17T03:51:03.344489","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-17T04:12:28.099564","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py","logger":"airflow.models.dagbag.DagBag"}
